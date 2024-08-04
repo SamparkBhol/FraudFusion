@@ -1,6 +1,6 @@
-# 🚀 FraudFuzz
+# 🚀 FraudFusion
 
-Welcome to the **FraudFuzz** project! This comprehensive system uses Generative Adversarial Networks (GANs) for data augmentation, various anomaly detection models, and a complete end-to-end machine learning pipeline to tackle fraudulent financial transactions. 🎯
+Welcome to the **FraudFusion** project! This comprehensive system uses Generative Adversarial Networks (GANs) for data augmentation, various anomaly detection models, and a complete end-to-end machine learning pipeline to tackle fraudulent financial transactions. 🎯
 
 ## 📦 Project Overview
 
