@@ -54,7 +54,7 @@ Advanced-Fraud-Detection-System/
       - y_train.csv
       - y_test.csv
 
-**The above is a format for explination of placement of csv files**__
+_**The above is a format for explination of placement of csv files**_
 
 ## 🌟 Features
 Data Augmentation: Uses GANs to generate synthetic data.
