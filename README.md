@@ -46,14 +46,13 @@ feature1
 feature2
 is_fraud (1 for fraudulent, 0 for genuine)
 Advanced-Fraud-Detection-System/
-├── data/
-│   ├── raw/
-│   │   └── example_transactions.csv
-│   ├── processed/
-│   │   ├── X_train.csv
-│   │   ├── X_test.csv
-│   │   ├── y_train.csv
-│   │   └── y_test.csv
+
+1. data/raw/example_transactions.csv
+2. data/ processed/
+      - X_train.csv
+      - X_test.csv
+      - y_train.csv
+      - y_test.csv
 
 **The above is a format for explination of placement of csv files**__
 
