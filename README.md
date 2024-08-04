@@ -45,7 +45,17 @@ transaction_date
 feature1
 feature2
 is_fraud (1 for fraudulent, 0 for genuine)
-You can find an example CSV file in the data/raw/ directory or create your own with similar features.
+Advanced-Fraud-Detection-System/
+├── data/
+│   ├── raw/
+│   │   └── example_transactions.csv
+│   ├── processed/
+│   │   ├── X_train.csv
+│   │   ├── X_test.csv
+│   │   ├── y_train.csv
+│   │   └── y_test.csv
+
+**The above is a format for explination of placement of csv files**__
 
 ## 🌟 Features
 Data Augmentation: Uses GANs to generate synthetic data.
