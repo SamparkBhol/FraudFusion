@@ -57,14 +57,14 @@ Advanced-Fraud-Detection-System/
 _**The above is a format for explination of placement of csv files**_
 
 ## 🌟 Features
-Data Augmentation: Uses GANs to generate synthetic data.
-Multiple Models: Includes Isolation Forest, One-Class SVM, and Autoencoders.
-Automated Pipeline: Streamlines data processing and model training.
-Web Deployment: Interactive web interface for real-time fraud detection.
+- Data Augmentation: Uses GANs to generate synthetic data.
+- Multiple Models: Includes Isolation Forest, One-Class SVM, and Autoencoders.
+- Automated Pipeline: Streamlines data processing and model training.
+- Web Deployment: Interactive web interface for real-time fraud detection.
 
 ## 🤔 Troubleshooting
 Issues with Data: Ensure your CSV file is properly formatted and placed in the correct directory.
 Dependencies: Make sure all required packages are installed.
 Model Loading: Verify that the models are correctly saved and loaded.
 
-##### It's a beginner's 🙃 project so there might be bugs and issues feel free to let me know.
+### It's a beginner's 🙃 project so there might be bugs and issues feel free to let me know.
